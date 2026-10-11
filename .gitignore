@@ -1,0 +1,16 @@
+# CMake and build output
+/build/
+/cmake-build-*/
+CMakeUserPresets.json
+
+# Visual Studio
+.vs/
+.vscode/settings.json
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
